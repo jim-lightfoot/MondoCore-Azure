@@ -4,8 +4,8 @@ A collection of libraries to access Azure resources
 These libraries are implementaions of interfaces from the <a href="https://github.com/jim-lightfoot/MondoCore">MondoCore</a> libraries
 <br><br>
 
-## [MondoCore.ApplicationInsights](MondoCore.ApplicationInsights/README.md)
-  Logging to ApplicationInsights.
+## [MondoCore.ApplicationInsights](https://github.com/jim-lightfoot/MondoCore.Azure.ApplicationInsights)
+  Move to it's own repository.
   
 
 <br>

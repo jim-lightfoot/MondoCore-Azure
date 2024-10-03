@@ -12,15 +12,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		README.md = README.md
 	EndProjectSection
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MondoCore.Azure.Configuration", "MondoCore.Azure.Configuration\MondoCore.Azure.Configuration.csproj", "{5043E7CA-2F09-4FF1-A5B1-C20B9F4415D2}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MondoCore.Azure.KeyVault", "MondoCore.Azure.KeyVault\MondoCore.Azure.KeyVault.csproj", "{CE3B7155-0593-4D62-9F5C-15216D1132CB}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MondoCore.Azure.Storage", "MondoCore.Azure.Storage\MondoCore.Azure.Storage.csproj", "{C5965889-B3D1-4682-8313-12913279A59B}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MondoCore.Azure.Storage.Queue", "MondoCore.Azure.Storage.Queue\MondoCore.Azure.Storage.Queue.csproj", "{310C1711-08A5-4686-A1D5-1E4A162B5BC1}"
-EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MondoCore.Azure.Configuration.FunctionalTests", "Tests\MondoCore.Azure.Configuration.FunctionalTests\MondoCore.Azure.Configuration.FunctionalTests.csproj", "{C19D41CA-D6C3-4DF3-98CE-8B140818B4D4}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MondoCore.Azure.KeyVault.FunctionalTests", "Tests\MondoCore.Azure.KeyVault.FunctionalTests\MondoCore.Azure.KeyVault.FunctionalTests.csproj", "{DB2F15CD-77E3-4112-B746-908FDBBBF365}"
 EndProject
@@ -38,10 +34,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{5043E7CA-2F09-4FF1-A5B1-C20B9F4415D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{5043E7CA-2F09-4FF1-A5B1-C20B9F4415D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{5043E7CA-2F09-4FF1-A5B1-C20B9F4415D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{5043E7CA-2F09-4FF1-A5B1-C20B9F4415D2}.Release|Any CPU.Build.0 = Release|Any CPU
 		{CE3B7155-0593-4D62-9F5C-15216D1132CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{CE3B7155-0593-4D62-9F5C-15216D1132CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CE3B7155-0593-4D62-9F5C-15216D1132CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -54,10 +46,6 @@ Global
 		{310C1711-08A5-4686-A1D5-1E4A162B5BC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{310C1711-08A5-4686-A1D5-1E4A162B5BC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{310C1711-08A5-4686-A1D5-1E4A162B5BC1}.Release|Any CPU.Build.0 = Release|Any CPU
-		{C19D41CA-D6C3-4DF3-98CE-8B140818B4D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C19D41CA-D6C3-4DF3-98CE-8B140818B4D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C19D41CA-D6C3-4DF3-98CE-8B140818B4D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{C19D41CA-D6C3-4DF3-98CE-8B140818B4D4}.Release|Any CPU.Build.0 = Release|Any CPU
 		{DB2F15CD-77E3-4112-B746-908FDBBBF365}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{DB2F15CD-77E3-4112-B746-908FDBBBF365}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DB2F15CD-77E3-4112-B746-908FDBBBF365}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -83,7 +71,6 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
-		{C19D41CA-D6C3-4DF3-98CE-8B140818B4D4} = {A0A8FB9C-DF37-4822-90D7-30E27824A6AF}
 		{DB2F15CD-77E3-4112-B746-908FDBBBF365} = {A0A8FB9C-DF37-4822-90D7-30E27824A6AF}
 		{E0C3EC3C-C06F-4978-8ADC-B3CC737760E4} = {A0A8FB9C-DF37-4822-90D7-30E27824A6AF}
 		{AB17D9D7-A98C-4F01-AC65-EEFE82FE237E} = {A0A8FB9C-DF37-4822-90D7-30E27824A6AF}

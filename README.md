@@ -1,20 +1,12 @@
 # MondoCore.Azure
 A collection of libraries to access Azure resources
 
-These libraries are implementaions of interfaces from the <a href="https://github.com/jim-lightfoot/MondoCore">MondoCore</a> libraries
+These libraries are implementations of interfaces from the <a href="https://github.com/jim-lightfoot/MondoCore">MondoCore</a> libraries
 <br><br>
 
-## [MondoCore.ApplicationInsights](https://github.com/jim-lightfoot/MondoCore.Azure.ApplicationInsights)
-  Move to it's own repository.
-  
 
 <br>
 
-## [MondoCore.Azure.Configuration](MondoCore.Azure.Configuration/README.md)
-  Configuration (settings) using Azure App Configuration.
-  
-
-<br>
 
 ## [MondoCore.Azure.KeyVault](MondoCore.Azure.KeyVault/README.md)
   Encryption and secret storage using Azure KeyVault.

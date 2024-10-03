@@ -1,7 +1,7 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFramework>netstandard2.0</TargetFramework>
+    <TargetFramework>netstandard2.1</TargetFramework>
     <PackageLicenseFile>LICENSE</PackageLicenseFile>
     <Copyright>© Jim Lightfoot, All Rights Reserved</Copyright>
     <Authors>Jim Lightfoot</Authors>
@@ -14,9 +14,9 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Azure.Identity" Version="1.3.0" />
-    <PackageReference Include="Azure.Storage.Blobs" Version="12.8.0" />
-    <PackageReference Include="MondoCore.Common" Version="1.5.0" />
+    <PackageReference Include="Azure.Identity" Version="1.12.1" />
+    <PackageReference Include="Azure.Storage.Blobs" Version="12.22.1" />
+    <PackageReference Include="MondoCore.Common" Version="1.5.2" />
   </ItemGroup>
 
   <ItemGroup>

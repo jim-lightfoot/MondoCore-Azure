@@ -1,33 +1,32 @@
 # MondoCore.Azure
-A collection of libraries to access Azure resources
 
-These libraries are implementaions of interfaces from the <a href="https://github.com/jim-lightfoot/MondoCore">MondoCore</a> libraries
+This repository is <b>archived</b> and all of it's projects moved to their own individual repositories. See a list [here](https://github.com/MondoCore).
 <br><br>
 
-## [MondoCore.ApplicationInsights](https://github.com/jim-lightfoot/MondoCore.Azure.ApplicationInsights)
-  Move to it's own repository.
+## [MondoCore.ApplicationInsights](https://github.com/MondoCore/MondoCore.Azure.ApplicationInsights)
+  Moved to it's own repository.
   
 
 <br>
 
-## [MondoCore.Azure.Configuration](MondoCore.Azure.Configuration/README.md)
-  Configuration (settings) using Azure App Configuration.
+## [MondoCore.Azure.Configuration](https://github.com/MondoCore/MondoCore.Azure.Configuration)
+  Moved to it's own repository.
   
 
 <br>
 
-## [MondoCore.Azure.KeyVault](MondoCore.Azure.KeyVault/README.md)
-  Encryption and secret storage using Azure KeyVault.
+## [MondoCore.Azure.KeyVault](https://github.com/MondoCore/MondoCore.Azure.KeyVault)
+  Moved to it's own repository.
   
 
 <br>
 
-## [MondoCore.Azure.Storage](MondoCore.Azure.Storage/README.md)
-  Blob storage using Azure blob storage.
+## [MondoCore.Azure.Storage](https://github.com/MondoCore/MondoCore.Azure.Storage)
+  Moved to it's own repository.
 
 
 <br>
 
-## [MondoCore.Azure.Storage.Queue](MondoCore.Azure.Storage.Queue/README.md)
-  Message queue for Azure Storage queues.
+## [MondoCore.Azure.Storage.Queue](https://github.com/MondoCore/MondoCore.Azure.Storage.Queue)
+  Moved to it's own repository.
   
